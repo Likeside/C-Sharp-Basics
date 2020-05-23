@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\bin\Debug\FunctionsDelegate.exe.config
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\bin\Debug\FunctionsDelegate.exe
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\bin\Debug\FunctionsDelegate.pdb
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\obj\Debug\FunctionsDelegate.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\obj\Debug\FunctionsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\obj\Debug\FunctionsDelegate.exe
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FunctionsDelegate\obj\Debug\FunctionsDelegate.pdb

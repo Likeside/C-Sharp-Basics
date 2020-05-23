@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\bin\Debug\FuncMin.exe.config
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\bin\Debug\FuncMin.exe
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\bin\Debug\FuncMin.pdb
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\obj\Debug\FuncMin.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\obj\Debug\FuncMin.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\obj\Debug\FuncMin.exe
+C:\Users\Likeside\Desktop\Разработка игр\GeekBrains\C#Basics\ДЗ\FuncMin\obj\Debug\FuncMin.pdb
