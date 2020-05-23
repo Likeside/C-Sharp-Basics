@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\obj\Debug\Task Manager.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\Task Manager\obj\Debug\Task Manager.pdb

@@ -1,0 +1,8 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\bin\Debug\Message.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\bin\Debug\Message.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\bin\Debug\Message.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\obj\Debug\Message.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\obj\Debug\Message.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\obj\Debug\Message.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\Message\bin\Debug\TextFile1.txt

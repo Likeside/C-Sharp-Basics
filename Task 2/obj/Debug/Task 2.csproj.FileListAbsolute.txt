@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\bin\Debug\Task 2.exe
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\obj\Debug\Task 2.exe
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\obj\Debug\Task 2.pdb
+C:\Users\Likeside\Desktop\GeekBrains\Основы языка C#\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache

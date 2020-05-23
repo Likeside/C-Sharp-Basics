@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\bin\Debug\LoginCheck.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\bin\Debug\LoginCheck.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\bin\Debug\LoginCheck.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\obj\Debug\LoginCheck.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\obj\Debug\LoginCheck.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\obj\Debug\LoginCheck.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\LoginCheck\obj\Debug\LoginCheck.pdb

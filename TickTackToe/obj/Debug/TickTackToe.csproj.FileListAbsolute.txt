@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\bin\Debug\TickTackToe.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\bin\Debug\TickTackToe.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\bin\Debug\TickTackToe.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\obj\Debug\TickTackToe.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\obj\Debug\TickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\obj\Debug\TickTackToe.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\TickTackToe\obj\Debug\TickTackToe.pdb

@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\bin\Debug\FractionDemonstration.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\bin\Debug\FractionDemonstration.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\bin\Debug\FractionDemonstration.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\obj\Debug\FractionDemonstration.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\obj\Debug\FractionDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\obj\Debug\FractionDemonstration.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\FractionDemonstration\obj\Debug\FractionDemonstration.pdb

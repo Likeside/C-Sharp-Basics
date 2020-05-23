@@ -1,0 +1,7 @@
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\bin\Debug\ArrayPairs.exe.config
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\bin\Debug\ArrayPairs.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\bin\Debug\ArrayPairs.pdb
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\obj\Debug\ArrayPairs.csprojAssemblyReference.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\obj\Debug\ArrayPairs.csproj.CoreCompileInputs.cache
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\obj\Debug\ArrayPairs.exe
+C:\Users\Likeside\Desktop\GeekBrains\C#Basics\ДЗ\ArrayPairs\obj\Debug\ArrayPairs.pdb
