@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsDelegate", "..\Fun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncMin", "..\FuncMin\FuncMin.csproj", "{B175451E-5D2C-45E2-BD00-B8DA6B211D36}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 7", "Homework 7", "{0E9732F1-2FD9-43B5-B063-76DCB4400694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udvoitel", "..\Udvoitel1\Udvoitel.csproj", "{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,10 @@ Global
 		{B175451E-5D2C-45E2-BD00-B8DA6B211D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B175451E-5D2C-45E2-BD00-B8DA6B211D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B175451E-5D2C-45E2-BD00-B8DA6B211D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -110,6 +118,7 @@ Global
 		{9B42AD46-4CF4-4FDA-8793-89FE5DAB3C52} = {39032824-CD3B-4413-9029-2AC40444091A}
 		{10C0BC54-6968-4096-9E38-441056FC819E} = {E26C23E8-5971-4859-B34B-36368D4E91AC}
 		{B175451E-5D2C-45E2-BD00-B8DA6B211D36} = {E26C23E8-5971-4859-B34B-36368D4E91AC}
+		{E08D4686-9AAD-40C0-BEFB-64EFBD6B371A} = {0E9732F1-2FD9-43B5-B063-76DCB4400694}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32965B54-1091-4222-AFE8-C9A414EC96F6}
